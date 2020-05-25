@@ -1,3 +1,4 @@
-This is my file. This is my first repository. I am making changes.
-getting ready for collaborators 
+# About Me 
+
+This is my about me project. It's not *everything* about me, but it's a start.
 
